@@ -4,7 +4,11 @@
     "repositoryName": "3991.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Test"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
