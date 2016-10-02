@@ -1,0 +1,3 @@
+= Setting up new HubPress site
+ok
+:hp-tags: hubpress
