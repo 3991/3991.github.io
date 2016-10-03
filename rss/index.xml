@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Open Game Project Blog]]></title><description><![CDATA[Open Game Project Blog]]></description><link>https://3991.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 03 Oct 2016 18:54:31 GMT</lastBuildDate><atom:link href="https://3991.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Game concept]]></title><description><![CDATA[<div class="paragraph">
-<p>Titre temporaire : Projet number 25486
-Genre : Gestion, bac à sable.
-Support : Window, Linux.
-Techno : SFML (unity ?)
-Intention :
-Scénario :
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Open Game Project Blog]]></title><description><![CDATA[Open Game Project Blog]]></description><link>https://3991.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 03 Oct 2016 19:00:14 GMT</lastBuildDate><atom:link href="https://3991.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Game concept]]></title><description><![CDATA[<div class="paragraph">
+<p>Titre temporaire : Projet number 25486.<br>
+Genre : Gestion, bac à sable.<br>
+Support : Window, Linux.<br>
+Techno : SFML (unity ?).<br>
+Inspiration : Shadok, Flatland, SimCity.<br>
+Scénario : /.<br>
 Gameplay :</p>
 </div>]]></description><link>https://3991.github.io/2016/10/02/Game-concept.html</link><guid isPermaLink="true">https://3991.github.io/2016/10/02/Game-concept.html</guid><category><![CDATA[conception]]></category><pubDate>Sun, 02 Oct 2016 00:00:00 GMT</pubDate></item></channel></rss>
