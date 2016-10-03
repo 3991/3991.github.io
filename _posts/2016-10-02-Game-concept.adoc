@@ -6,4 +6,4 @@ Genre : Gestion, bac à sable. +
 Support : Window, Linux. +
 Techno : SFML (unity ?). +
 Inspiration : Shadok, Flatland, SimCity. +
-Scénario : /. +
+Scénario : / +
