@@ -3,7 +3,9 @@
 
 image::https://i.ytimg.com/vi/P9GXbMFPkKQ/hqdefault.jpg[]
 image::https://alexlazar.files.wordpress.com/2011/08/flatland_house.png[]
-
+image::http://www.systella.fr/~bertrand/shadoks/shadok12.gif[]
+image::http://perso.cimetz.com/jvoyenne/shadok/shadok16.jpg[]
+image::http://i.skyrock.net/2975/53632975/pics/2164275883_1.jpg[]
 //image::http://github.com/3991/3991.github.io/flatland.jpg[]
   
 
