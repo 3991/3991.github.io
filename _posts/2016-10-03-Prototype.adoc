@@ -1,4 +1,6 @@
 = Prototype
 :hp-tags: pre-prod
 
-frfr
+Control +
+Camera +
+Character +
