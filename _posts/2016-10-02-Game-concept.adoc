@@ -7,4 +7,3 @@ Support : Window, Linux. +
 Techno : SFML (unity ?). +
 Inspiration : Shadok, Flatland, SimCity. +
 Scénario : /. +
-Gameplay : 
