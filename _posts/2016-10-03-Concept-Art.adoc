@@ -2,7 +2,8 @@
 :hp-tags: pre-prod
 
 image::https://i.ytimg.com/vi/P9GXbMFPkKQ/hqdefault.jpg[]
-image::https://github.com/3991/3991.github.io/images/flatland.jpg[]
-image::http://github.com/3991/3991.github.io/flatland.jpg[]
+image::https://alexlazar.files.wordpress.com/2011/08/flatland_house.png[]
+
+//image::http://github.com/3991/3991.github.io/flatland.jpg[]
   
 
