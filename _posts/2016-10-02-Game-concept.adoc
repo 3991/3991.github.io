@@ -1,4 +1,11 @@
 = Game concept
 
 :hp-tags: conception
-Okok ok ok okok ok ok ok okok ok ok ok okok ok ok ok okok ok ok ok okok ok ok ok okok ok ok ok okok ok ok ok okok ok ok ok okok ok ok ok okok ok ok ok okok ok ok ok okok ok ok ok okok ok ok ok okok ok ok ok okok ok ok ok ok
+Titre temporaire : Projet number 25486
+Genre : 
+Public : 
+Support : Window, Linux.
+Techno : SFML (unity ?)
+Intention : 
+Scénario : 
+Gameplay : 
