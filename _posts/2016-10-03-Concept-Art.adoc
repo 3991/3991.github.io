@@ -6,6 +6,12 @@ image::https://alexlazar.files.wordpress.com/2011/08/flatland_house.png[]
 image::http://www.systella.fr/~bertrand/shadoks/shadok12.gif[]
 image::http://perso.cimetz.com/jvoyenne/shadok/shadok16.jpg[]
 image::http://i.skyrock.net/2975/53632975/pics/2164275883_1.jpg[]
+image::http://static.eclypsia.com/public/upload/cke/Games/SimCity/Retro/Sim_City_1989_screenshot.gif[]
+image::https://images.g2a.com/m/1024x768/1x1x0/thumbnail/p/r/4c65b4bed614_prison_architect_3_.jpg[]
+image::http://rimworldgame.com/images/screens/defenseline.jpg[]
+image::http://www.catb.org/esr/writings/taouu/html/graphics/lisamw2.png[]
+image::http://www.linkedresources.com/teach/ipnetrouter/pix/LC_MacTCP-More.gif[]
+image::http://1.bp.blogspot.com/_aeGDF-bBYZo/TIzMT8MPKDI/AAAAAAAAACU/GG41GRwvlV0/s1600/Apple_Lisa_Office_System_3.1.png[]
 //image::http://github.com/3991/3991.github.io/flatland.jpg[]
   
 
