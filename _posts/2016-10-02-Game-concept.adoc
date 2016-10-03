@@ -1,10 +1,10 @@
 = Game concept
 
 :hp-tags: conception
-Titre temporaire : Projet number 25486
-Genre : Gestion, bac à sable.
-Support : Window, Linux.
-Techno : SFML (unity ?)
-Intention : 
-Scénario : 
+Titre temporaire : Projet number 25486. +
+Genre : Gestion, bac à sable. +
+Support : Window, Linux. +
+Techno : SFML (unity ?). +
+Inspiration : Shadok, Flatland, SimCity. +
+Scénario : /. +
 Gameplay : 
