@@ -2,8 +2,7 @@
 
 :hp-tags: conception
 Titre temporaire : Projet number 25486
-Genre : 
-Public : 
+Genre : Gestion, bac à sable.
 Support : Window, Linux.
 Techno : SFML (unity ?)
 Intention : 
