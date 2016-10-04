@@ -13,5 +13,16 @@ image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/lisam
 image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/LC_MacTCP-More.gif[]
 image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/Apple_Lisa_Office_System_3.1.png[]
 image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/Swimbots.jpg[]
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/characterBis.jpg[]
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/crypte.jpg[]
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/grille.jpg[]
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/isacc.jpg[]
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/mapgen.png[]
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/rabbit.jpg[]
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/neige.jpg[]
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/test1.jpg[]
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/test2.jpg[]
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/test3.jpg[]
+
   
 
