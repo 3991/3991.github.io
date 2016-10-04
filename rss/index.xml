@@ -1,45 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Open Game Project Blog]]></title><description><![CDATA[Open Game Project Blog]]></description><link>https://3991.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 03 Oct 2016 19:54:17 GMT</lastBuildDate><atom:link href="https://3991.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Prototype]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Open Game Project Blog]]></title><description><![CDATA[Open Game Project Blog]]></description><link>https://3991.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 04 Oct 2016 19:19:08 GMT</lastBuildDate><atom:link href="https://3991.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Prototype]]></title><description><![CDATA[<div class="paragraph">
 <p>Control<br>
 Camera<br>
 Character<br></p>
 </div>]]></description><link>https://3991.github.io/2016/10/03/Prototype.html</link><guid isPermaLink="true">https://3991.github.io/2016/10/03/Prototype.html</guid><category><![CDATA[pre-prod]]></category><pubDate>Mon, 03 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Level Design]]></title><link>https://3991.github.io/2016/10/03/Level-Design.html</link><guid isPermaLink="true">https://3991.github.io/2016/10/03/Level-Design.html</guid><category><![CDATA[prod]]></category><pubDate>Mon, 03 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Concept Art]]></title><description><![CDATA[<div class="imageblock">
 <div class="content">
-<img src="https://i.ytimg.com/vi/P9GXbMFPkKQ/hqdefault.jpg" alt="hqdefault.jpg">
+<img src="https://raw.githubusercontent.com/3991/3991.github.io/master/images/flatland.jpg" alt="flatland.jpg">
 </div>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://alexlazar.files.wordpress.com/2011/08/flatland_house.png" alt="flatland house.png">
+<img src="https://raw.githubusercontent.com/3991/3991.github.io/master/images/flatland_house.png" alt="flatland house.png">
 </div>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="http://www.systella.fr/~bertrand/shadoks/shadok12.gif" alt="shadok12.gif">
+<img src="https://raw.githubusercontent.com/3991/3991.github.io/master/images/shadok.jpg" alt="shadok.jpg">
 </div>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="http://perso.cimetz.com/jvoyenne/shadok/shadok16.jpg" alt="shadok16.jpg">
+<img src="https://raw.githubusercontent.com/3991/3991.github.io/master/images/shadok12.jpg" alt="shadok12.jpg">
 </div>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="http://i.skyrock.net/2975/53632975/pics/2164275883_1.jpg" alt="2164275883 1.jpg">
+<img src="https://raw.githubusercontent.com/3991/3991.github.io/master/images/shadok16.jpg" alt="shadok16.jpg">
 </div>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="http://static.eclypsia.com/public/upload/cke/Games/SimCity/Retro/Sim_City_1989_screenshot.gif" alt="Sim City 1989 screenshot.gif">
+<img src="https://raw.githubusercontent.com/3991/3991.github.io/master/images/Sim_City_1989_screenshot.jpg" alt="Sim City 1989 screenshot.jpg">
 </div>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://images.g2a.com/m/1024x768/1x1x0/thumbnail/p/r/4c65b4bed614_prison_architect_3_.jpg" alt="4c65b4bed614 prison architect 3 .jpg">
+<img src="https://raw.githubusercontent.com/3991/3991.github.io/master/images/prison_architect_3_.jpg" alt="prison architect 3 .jpg">
 </div>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="http://rimworldgame.com/images/screens/defenseline.jpg" alt="defenseline.jpg">
+<img src="https://raw.githubusercontent.com/3991/3991.github.io/master/images/defenseline.jpg" alt="defenseline.jpg">
 </div>
 </div>
 <div class="imageblock">
