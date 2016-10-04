@@ -6,4 +6,24 @@ Genre : Gestion, bac à sable. +
 Support : Window, Linux. +
 Techno : SFML (unity ?). +
 Inspiration : Shadok, Flatland, SimCity. +
-Scénario : / +
+Scénario :  +
+
+Proposition des liens entre les formes. 
+
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/liens.jpg[]
+
+Proposition de la hiérarchie des tâches :
+
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/hierarchie.jpg[]
+
+Proposition de l'editeur d'objets :
+
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/editor.jpg[]
+
+Proposition version très avancée : 
+
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/editor2.jpg[]
+
+Proposition vue globale :
+
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/global_view.jpg[]
