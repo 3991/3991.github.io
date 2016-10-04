@@ -18,7 +18,7 @@ image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/crypt
 image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/grille.jpg[]
 image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/isacc.jpg[]
 image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/mapgen.png[]
-image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/rabbit.jpg[]
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/mr_robot_rabbit.jpg[]
 image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/neige.jpg[]
 image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/test1.jpg[]
 image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/test2.jpg[]
