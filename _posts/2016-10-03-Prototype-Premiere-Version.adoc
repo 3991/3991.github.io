@@ -1,5 +1,21 @@
-= Prototype
+= Prototype Première Version
 :hp-tags: pre-prod
+
+Choix des propriétés (nom, "croyance") du joueur :
+
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/birth_certificate.jpg[]
+Le choix de la “croyance” en début de partie détermine la forme du joueur en jeu (un triangle, un rond ...). Ce choix est décisif puisqu'à l’image des maisons de Poudlard, une croyance a des qualités/defaults et surtout des liens avec d'autres croyance. 
+
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/religion.jpg[]
+
+
+Proposition de menu :
+
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/menu.jpg[]
+
+Interface vue globale : 
+
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/interface.jpg[]
 
 Control +
 Camera +
