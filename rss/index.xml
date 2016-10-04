@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Open Game Project Blog]]></title><description><![CDATA[Open Game Project Blog]]></description><link>https://3991.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 04 Oct 2016 19:54:51 GMT</lastBuildDate><atom:link href="https://3991.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Prototype Première Version]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Open Game Project Blog]]></title><description><![CDATA[Open Game Project Blog]]></description><link>https://3991.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 04 Oct 2016 20:02:16 GMT</lastBuildDate><atom:link href="https://3991.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Prototype Première Version]]></title><description><![CDATA[<div class="paragraph">
 <p>Choix des propriétés (nom, "croyance") du joueur :</p>
 </div>
 <div class="imageblock">
@@ -149,5 +149,45 @@ Genre : Gestion, bac à sable.<br>
 Support : Window, Linux.<br>
 Techno : SFML (unity ?).<br>
 Inspiration : Shadok, Flatland, SimCity.<br>
-Scénario : /<br></p>
+Scénario : <br></p>
+</div>
+<div class="paragraph">
+<p>Proposition des liens entre les formes.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://raw.githubusercontent.com/3991/3991.github.io/master/images/liens.jpg" alt="liens.jpg">
+</div>
+</div>
+<div class="paragraph">
+<p>Proposition de la hiérarchie des tâches :</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://raw.githubusercontent.com/3991/3991.github.io/master/images/hierarchie.jpg" alt="hierarchie.jpg">
+</div>
+</div>
+<div class="paragraph">
+<p>Proposition de l&#8217;editeur d&#8217;objets :</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://raw.githubusercontent.com/3991/3991.github.io/master/images/editor.jpg" alt="editor.jpg">
+</div>
+</div>
+<div class="paragraph">
+<p>Proposition version très avancée :</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://raw.githubusercontent.com/3991/3991.github.io/master/images/editor2.jpg" alt="editor2.jpg">
+</div>
+</div>
+<div class="paragraph">
+<p>Proposition vue globale :</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://raw.githubusercontent.com/3991/3991.github.io/master/images/global_view.jpg" alt="global view.jpg">
+</div>
 </div>]]></description><link>https://3991.github.io/2016/10/02/Game-concept.html</link><guid isPermaLink="true">https://3991.github.io/2016/10/02/Game-concept.html</guid><category><![CDATA[conception]]></category><pubDate>Sun, 02 Oct 2016 00:00:00 GMT</pubDate></item></channel></rss>
