@@ -1,0 +1,10 @@
+= [11/09/2015]Màj diagramme créateur
+
+:hp-tags: conception
+
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/pyramide-maslow-hs-travail.png[]
+
+Objets durables : meuble, jouet, consoles de jeux, téléviseur  ect
+Objets non durables : alimentaire, nettoyage, médicaments, fournitures, piles électriques, ampoules etc
+
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/Sans%20titre%202.jpg[]
