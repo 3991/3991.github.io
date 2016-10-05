@@ -1,0 +1,25 @@
+= [15/07/2015] Moteur
+:hp-tags: conception
+
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/moteur.jpg[]
+
+Indicateurs de l’état de la partie +
+Indicateurs du joueur: +
+Argent +
+Statut (nb friends) +
+Bonheur +
+
+Indicateurs du monde : +
+Day +
+Environnement +
+
+
+Caractéristiques objet +
+Object : opérration +/- sur les Indicateurs de la partie chaque jour +
+Pollution : +/- Environnement, +/- bonheur +
+Lifetime : - day, +/- Environnement +
+Health : +/- bonheur, +/- Environnement +
+Love : +/- bonheur, +/- statut +
+Sleep : +/- Bonheur +
+Safety : +/- Bonheur, +/- argent +
+Cycle jour/nuit ? Thread avec pause passive
