@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Open Game Project Blog]]></title><description><![CDATA[Open Game Project Blog]]></description><link>https://3991.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 05 Oct 2016 20:08:44 GMT</lastBuildDate><atom:link href="https://3991.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Etat de l'art : créateur]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Open Game Project Blog]]></title><description><![CDATA[Open Game Project Blog]]></description><link>https://3991.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 05 Oct 2016 20:09:51 GMT</lastBuildDate><atom:link href="https://3991.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[[17/07/2015] Etat de l'art : créateur]]></title><description><![CDATA[<div class="paragraph">
 <p>Tropico<br>
 Hébergement &#8594; immeuble, résidence, maison de campagne, copropriété, bâtiment dortoire, maison, maison luxueuse<br>
 Industrie &#8594; conserverie, bijouterie industrielle, scierie, usine de cigare, rhumerie, fabrique de meuble<br>
@@ -44,7 +44,7 @@ Paysage &#8594; arbre, fontaine, statue<br></p>
 <div class="content">
 <img src="https://raw.githubusercontent.com/3991/3991.github.io/master/images/plan.jpg" alt="plan.jpg">
 </div>
-</div>]]></description><link>https://3991.github.io/2016/10/05/Etat-de-lart-createur.html</link><guid isPermaLink="true">https://3991.github.io/2016/10/05/Etat-de-lart-createur.html</guid><category><![CDATA[conception]]></category><pubDate>Wed, 05 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Prototype Première Version]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>https://3991.github.io/2016/10/05/17072015-Etat-de-lart-createur.html</link><guid isPermaLink="true">https://3991.github.io/2016/10/05/17072015-Etat-de-lart-createur.html</guid><category><![CDATA[conception]]></category><pubDate>Wed, 05 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Prototype Première Version]]></title><description><![CDATA[<div class="paragraph">
 <p>Choix des propriétés (nom, "croyance") du joueur :</p>
 </div>
 <div class="imageblock">
