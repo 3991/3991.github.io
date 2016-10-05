@@ -1,0 +1,18 @@
+= Etat de l'art : créateur
+
+:hp-tags: conception
+
+Tropico +
+Hébergement -> immeuble, résidence, maison de campagne, copropriété, bâtiment dortoire, maison, maison luxueuse +
+Industrie -> conserverie, bijouterie industrielle, scierie, usine de cigare, rhumerie, fabrique de meuble +
+Fermes et mines -> ferme (maïs), quai de pêche, camp de bucheronnage, ranch (bétail), mine (tous les minerais) +
+Attraction touristique -> thermes, panorama, boutique hors taxe, marina,  mini golf, plage, magasin de souvenir, réserve naturelle, court de tennis, piscine +
+Hébergement pour touristes -> hôtel … +
+Divertissement -> pub, restaurant, casino, cinéma, conservatoire, complexe sportif +
+Infrastructure -> route, banque, BTP, usine électrique, société de transport, quai, aéroport +
+Gouvernement -> bureau de l’immigration, poste de garde, poste de police, base militaire, journal, chaîne de télévision, prison, armurerie, station de radio +
+Sces à la communauté -> église, clinique, lycée, marché, hôpital, cathédrale, université +
+Paysage -> arbre, fontaine, statue +
+
+Garry's mod
+https://raw.githubusercontent.com/3991/3991.github.io/master/images/garrysmod.jpg
