@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Open Game Project Blog]]></title><description><![CDATA[Open Game Project Blog]]></description><link>https://3991.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 05 Oct 2016 21:43:58 GMT</lastBuildDate><atom:link href="https://3991.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[[27/10/2015] Moteur]]></title><description><![CDATA[<div class="imageblock">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Open Game Project Blog]]></title><description><![CDATA[Open Game Project Blog]]></description><link>https://3991.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 05 Oct 2016 21:45:02 GMT</lastBuildDate><atom:link href="https://3991.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[[27/10/2015] Moteur]]></title><description><![CDATA[<div class="imageblock">
 <div class="content">
 <img src="https://raw.githubusercontent.com/3991/3991.github.io/master/images/moteur.jpg" alt="moteur.jpg">
 </div>
@@ -75,7 +75,20 @@ Paysage &#8594; arbre, fontaine, statue<br></p>
 <div class="content">
 <img src="https://raw.githubusercontent.com/3991/3991.github.io/master/images/creator.jpg" alt="creator.jpg">
 </div>
-</div>]]></description><link>https://3991.github.io/2016/10/05/11092015-Prototype-Createur.html</link><guid isPermaLink="true">https://3991.github.io/2016/10/05/11092015-Prototype-Createur.html</guid><category><![CDATA[pre-prod]]></category><pubDate>Wed, 05 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Level Design]]></title><link>https://3991.github.io/2016/10/03/Level-Design.html</link><guid isPermaLink="true">https://3991.github.io/2016/10/03/Level-Design.html</guid><category><![CDATA[prod]]></category><pubDate>Mon, 03 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Concept Art]]></title><description><![CDATA[<div class="imageblock">
+</div>]]></description><link>https://3991.github.io/2016/10/05/11092015-Prototype-Createur.html</link><guid isPermaLink="true">https://3991.github.io/2016/10/05/11092015-Prototype-Createur.html</guid><category><![CDATA[pre-prod]]></category><pubDate>Wed, 05 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[[11/09/2015]Màj diagramme créateur]]></title><description><![CDATA[<div class="imageblock">
+<div class="content">
+<img src="https://raw.githubusercontent.com/3991/3991.github.io/master/images/pyramide-maslow-hs-travail.png" alt="pyramide maslow hs travail.png">
+</div>
+</div>
+<div class="paragraph">
+<p>Objets durables : meuble, jouet, consoles de jeux, téléviseur  ect
+Objets non durables : alimentaire, nettoyage, médicaments, fournitures, piles électriques, ampoules etc</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://raw.githubusercontent.com/3991/3991.github.io/master/images/Sans%20titre%202.jpg" alt="Sans%20titre%202.jpg">
+</div>
+</div>]]></description><link>https://3991.github.io/2016/10/05/11092015-Maj-diagramme-createur.html</link><guid isPermaLink="true">https://3991.github.io/2016/10/05/11092015-Maj-diagramme-createur.html</guid><category><![CDATA[conception]]></category><pubDate>Wed, 05 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Level Design]]></title><link>https://3991.github.io/2016/10/03/Level-Design.html</link><guid isPermaLink="true">https://3991.github.io/2016/10/03/Level-Design.html</guid><category><![CDATA[prod]]></category><pubDate>Mon, 03 Oct 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Concept Art]]></title><description><![CDATA[<div class="imageblock">
 <div class="content">
 <img src="https://raw.githubusercontent.com/3991/3991.github.io/master/images/flatland.jpg" alt="flatland.jpg">
 </div>
