@@ -8,22 +8,28 @@ Techno : SFML (unity ?). +
 Inspiration : Shadok, Flatland, SimCity. +
 Scénario :  +
 
-Proposition des liens entre les formes. 
+Capture fictive des liens entre les formes. 
 
 image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/liens.jpg[]
 
-Proposition de la hiérarchie des tâches :
+Capture fictive de la hiérarchie des tâches :
 
 image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/hierarchie.jpg[]
 
-Proposition de l'editeur d'objets :
+Capture fictive de l'editeur d'objets :
 
 image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/editor.jpg[]
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/create.jpg[]
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/create2.jpg[]
 
-Proposition version très avancée : 
+Capture fictive de l'editeur d'objets version alternative :
+
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/createAlt.jpg[]
+
+Capture fictive version très avancée : 
 
 image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/editor2.jpg[]
 
-Proposition vue globale :
+Capture fictive vue globale :
 
 image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/global_view.jpg[]
