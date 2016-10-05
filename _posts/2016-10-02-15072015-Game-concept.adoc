@@ -6,7 +6,7 @@ Genre : Gestion, bac à sable. +
 Support : Window, Linux. +
 Techno : SFML (unity ?). +
 Inspiration : Shadok, Flatland, SimCity. +
-Scénario :  +
+Scénario : création, écriture du scénario par le joueur durant la partie. +
 
 Capture fictive des liens entre les formes. 
 
