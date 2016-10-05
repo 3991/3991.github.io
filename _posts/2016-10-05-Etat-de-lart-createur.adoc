@@ -17,3 +17,8 @@ Paysage -> arbre, fontaine, statue +
 Garry's mod
 
 image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/garrysmod.jpg[]
+
+Nouveau diagramme 
+
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/diag.jpg[]
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/diagr.jpg[]
