@@ -1,4 +1,4 @@
-= Prototype Première Version
+= [16/07/2015] Prototype Première Version
 :hp-tags: pre-prod
 
 Choix des propriétés (nom, "croyance") du joueur :
