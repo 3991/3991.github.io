@@ -15,4 +15,5 @@ Sces à la communauté -> église, clinique, lycée, marché, hôpital, cathédr
 Paysage -> arbre, fontaine, statue +
 
 Garry's mod
-https://raw.githubusercontent.com/3991/3991.github.io/master/images/garrysmod.jpg
+
+image::https://raw.githubusercontent.com/3991/3991.github.io/master/images/garrysmod.jpg[]
